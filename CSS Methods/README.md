@@ -1,5 +1,5 @@
 # This is a basic example to explain CSS methods!
-
+> ## Quick tip:
 **The properties you need to add to each element are:**
 
 * `div`: a red background, white text, a font size of 32px, center aligned, and bold 
