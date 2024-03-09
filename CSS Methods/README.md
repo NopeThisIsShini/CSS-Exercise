@@ -1,6 +1,6 @@
 **This is a basic example to explain CSS methods!**
 
-The properties you need to add to each element are:
+@ The properties you need to add to each element are:@
 
 div: a red background, white text, a font size of 32px, center aligned, and bold  
 p: a green background, white text, and a font size of 18px  
