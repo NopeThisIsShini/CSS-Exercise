@@ -6,7 +6,7 @@
 * `p`: a green background, white text, and font size of 18px (internal method)
 * `button`: an orange background and a font size of 18px (inline method)
 
-**Desired Outcome**
+## Desired Outcome
 ![outcome](https://github.com/NopeThisIsShini/CSS-Exercise/assets/159548818/e2540d73-3708-4f09-9132-31bd66adb5b8)
 
 
